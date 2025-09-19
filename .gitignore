@@ -1,1 +1,7 @@
 labs/build/
+/build
+/.vscode
+/labs/.idea
+labs/unit1/.vs/ProjectSettings.json
+/labs/unit1/.vs
+/labs/unit2/.vs
